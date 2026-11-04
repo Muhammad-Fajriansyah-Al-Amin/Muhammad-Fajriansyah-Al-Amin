@@ -1,4 +1,7 @@
-# 💫 About Me:
+<p align="center">
+  <img src="Muhammad Fajriansyah_ Data Science Insights.png" width="100%" />
+</p>
+
 ## 👋 About Me<br><br>Hi! I'm **Muhammad Fajriansyah**, an **Aspiring Data Scientist** with a strong interest in Data Science, Data Analytics, and Machine Learning.<br><br>I'm currently learning and developing my skills in data analysis, statistical methods, and machine learning algorithms. I enjoy exploring datasets, discovering hidden patterns, transforming raw data into meaningful insights, and building projects to solve real-world problems.<br><br>I believe that every dataset tells a story, and I'm excited to learn how to uncover it through data.<br><br>### 🌱 Currently Exploring<br>- Data Science and Exploratory Data Analysis (EDA)<br>- Machine Learning Algorithms<br>- Data Visualization and Statistical Analysis<br>- Python for Data Science<br>- SQL and Database Management<br><br>### 🎯 My Goals<br>- Build meaningful and practical Data Science projects.<br>- Strengthen my analytical and problem-solving skills.<br>- Gain hands-on experience with Machine Learning.<br>- Continuously explore new technologies in AI and Data Science.<br><br>### 💡 Beyond Coding<br>I'm passionate about continuous learning, technology, problem-solving, and collaborating with others to create meaningful solutions.<br><br>**"Turning data into insights, and insights into meaningful solutions."**
 
 
